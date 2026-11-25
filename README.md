@@ -7,7 +7,7 @@ All data comes from Ext Watch's own crawl. The tools are read-only.
 ## Requirements
 
 - Claude Code with plugin support.
-- An Ext Watch account on the **Pro** or **Scale** plan. AI apps are unavailable on other plans.
+- An Ext Watch account on the **Pro** or **Scale** plan. AI apps are unavailable on other plans. See https://extwatch.com/ai-apps/plans.
 
 ## Install
 
