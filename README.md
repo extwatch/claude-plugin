@@ -14,7 +14,7 @@ All data comes from Ext Watch's own crawl. The tools are read-only.
 In Claude Code, run:
 
 ```
-/plugin marketplace add earlygap/extwatch-claude-plugin
+/plugin marketplace add extwatch/claude-plugin
 /plugin install extwatch@extwatch
 ```
 
