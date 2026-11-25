@@ -1,0 +1,19 @@
+{
+  "name": "extwatch",
+  "version": "1.0.0",
+  "description": "Chrome Web Store market data from Ext Watch: search extensions, track competitors, launches, changes and reviews.",
+  "author": {
+    "name": "Ext Watch",
+    "url": "https://extwatch.com"
+  },
+  "homepage": "https://extwatch.com",
+  "repository": "https://github.com/earlygap/extwatch-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "chrome-extensions",
+    "chrome-web-store",
+    "market-research",
+    "competitor-tracking",
+    "mcp"
+  ]
+}

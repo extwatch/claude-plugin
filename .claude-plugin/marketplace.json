@@ -1,0 +1,19 @@
+{
+  "name": "extwatch",
+  "owner": {
+    "name": "Ext Watch",
+    "url": "https://extwatch.com"
+  },
+  "metadata": {
+    "description": "The Ext Watch plugin for Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "extwatch",
+      "source": "./",
+      "description": "Chrome Web Store market data from Ext Watch: search extensions, track competitors, launches, changes and reviews.",
+      "category": "data"
+    }
+  ]
+}
