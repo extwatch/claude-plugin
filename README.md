@@ -1,5 +1,7 @@
 # Ext Watch plugin for Claude Code
 
+Chrome extension and Chrome Web Store data for Claude: look up any Chrome extension, find alternatives, see trending and new extensions, and read reviews, publishers and listing changes.
+
 Ext Watch tracks the Chrome Web Store every day. This plugin connects Claude Code to the Ext Watch MCP server at `https://app.extwatch.com/api/mcp`, so you can research Chrome extensions from your terminal: search the store, compare competitors, follow publishers, see new launches and listing changes, find rising extensions and read what users say in reviews.
 
 All data comes from Ext Watch's own crawl. The tools are read-only.

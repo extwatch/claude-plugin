@@ -1,6 +1,6 @@
 ---
 name: chrome-extension-research
-description: Use the Ext Watch tools for Chrome extension market research - finding and comparing extensions, tracking competitors and publishers, new launches, listing changes, rising extensions, category stats, monetization signals and user reviews from the Chrome Web Store.
+description: Chrome extension research with Ext Watch data from the Chrome Web Store. Use when the user asks about Chrome extensions, browser extensions or Chrome plugins - how many users or what rating an extension has, the most popular or top-rated extensions for a task or category, alternatives to an extension, comparing extensions, permission risk, publisher, update history and listing changes, trending or fastest-growing extensions, new launches, reviews and complaints, whether extensions charge money, Chrome Web Store statistics, or extension ideas and gaps. Not for building, debugging or publishing an extension, installing extensions, browser automation, or Firefox, Edge and Safari add-ons.
 ---
 
 # Chrome extension research with Ext Watch
